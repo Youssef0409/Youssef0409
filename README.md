@@ -6,6 +6,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssef0409" alt="youssef0409" /></a> </p>
 
+- 🔭 I’m currently working on **FreeLancers Platform**
+
+- 🌱 I’m currently learning **SpringBoot**
+
 - 📫 How to reach me **YoussefMazlout0409@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -21,4 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youssef0409&show_icons=true&locale=en" alt="youssef0409" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youssef0409&" alt="youssef0409" /></p>
-
